@@ -6,9 +6,9 @@ public class Main {
 		// Load The Driver
 		//Connection
 		Student s=new Student();
-		//s.createdatabase();
-        //s.createtable();
-		//s.createdata();
+		s.createdatabase();
+                s.createtable();
+		s.createdata();
 		
 		
 
