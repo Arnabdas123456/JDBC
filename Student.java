@@ -12,7 +12,7 @@ public class Student
 	try {
 		String url="jdbc:mysql://localhost:3306";
 		String username="root";
-		String password="arnabdas@1234";
+		String password="Your sql password";
 		
 		//Class.forName("oracle.jdbc.driver.OracleDriver");
 		
@@ -42,7 +42,7 @@ public class Student
 		try {
 			String url="jdbc:mysql://localhost:3306/codingwalla";
 			String username="root";
-			String password="arnabdas@1234";
+			String password="Your sql password";
 			
 			//Class.forName("oracle.jdbc.driver.OracleDriver");
 			
@@ -74,7 +74,7 @@ public class Student
 			String url="jdbc:mysql://localhost:3306/";
 			String Db="codingwalla";
 			String username="root";
-			String password="arnabdas@1234";
+			String password="Your sql password";
 			
 			//Class.forName("oracle.jdbc.driver.OracleDriver");
 			
