@@ -84,8 +84,8 @@ public class Student
 			//create a statement
 			PreparedStatement st =conn.prepareStatement(query);
 		    st.setInt(1,5);
-		    st.setString(2, "irin");
-		    st.setString(3, "irin@gamail.com");
+		    st.setString(2, "arnab");
+		    st.setString(3, "arnab@gamail.com");
 		    
 			
 			//Execute statement
